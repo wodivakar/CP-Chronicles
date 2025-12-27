@@ -61,5 +61,6 @@
 | Ashutosh Kesarwani     | Lucifer-0612             | HIT Haldia
 | Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
 | Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
-<!-- ADD ABOVE THIS -->
+| Aiyaan Mahajan        | Aiyaan-Mahajan | NIT Srinagar |
+
 <!-- example | Korvac | Betty | Reyansh College | -->
