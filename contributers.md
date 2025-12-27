@@ -46,6 +46,6 @@
 | Sayed Al Amaan Zaidi           | amaan1114           | Rishihood University                                   |
 |Aditya Singh            | adityasingh-0803         | BVDUCOEP                                                        |
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida                                                    |
-| Harsh Garg             | gargharsh182005-lab      | IIIT Allahabad
+| Harsh Garg             | gargharsh182005-lab      | IIIT Allahabad                                                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
