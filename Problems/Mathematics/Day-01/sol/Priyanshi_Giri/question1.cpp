@@ -37,4 +37,8 @@ int main() {
 
 /* Explaination : The opposite numbers must be having exactly n/2 numbers in between, hence the total number, ie. n = 2*abs(a-b).
 
-Time Complexity : O(t), t is the number of test cases. */
+Time Complexity : O(t), t is the number of test cases. 
+
+Submission Link : https://codeforces.com/contest/1560/submission/355247479
+
+*/
